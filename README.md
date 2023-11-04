@@ -1,8 +1,8 @@
-# broken-link-checker [![NPM Version][npm-image]][npm-url] ![Build Status][ci-image] [![Coverage Status][coveralls-image]][coveralls-url] [![Dependency Monitor][greenkeeper-image]][greenkeeper-url]
+##broken-link-checker [*[NPM Version][npm-image]][npm-url] #[Build Status][ci-image] [#[Coverage Status][coveralls-image]][coveralls-url] [![Dependency Monitor][greenkeeper-image]][greenkeeper-url]
 
 > Find broken links, missing images, etc within your HTML.
 
-* ✅ **Complete**: Unicode, redirects, compression, basic authentication, absolute/relative/local URLs.
+  ✅ **Complete**: Unicode, redirects, compression, basic authentication, absolute/relative/local URLs.
 * ⚡️ **Fast**: Concurrent, streamed and cached.
 * 🍰 **Easy**: Convenient defaults and very configurable.
 
@@ -451,3 +451,4 @@ Finally, **it is important** to analyze links excluded with the `BLC_UNSUPPORTED
 [coveralls-url]: https://coveralls.io/github/stevenvachon/broken-link-checker
 [greenkeeper-image]: https://badges.greenkeeper.io/stevenvachon/broken-link-checker.svg
 [greenkeeper-url]: https://greenkeeper.io/
+ 
